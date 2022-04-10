@@ -1,5 +1,5 @@
 ## Introduction
-In this project, I have developed a Neumorphism Password Generator. I have used HTML (HyperText Markup Language) , CSS (Cascading Style Sheets) and JavaScript .
+In this project, I have developed a Working Analog Clock. I have used HTML (HyperText Markup Language) , CSS (Cascading Style Sheets) and JavaScript .
 By the end of this project, you will have a brief understanding of Front-End Development and JavaScript.
 
 Hello Users , Today You will learn how to build a Working Analog Clock using HTML (HyperText Markup Language) , CSS (Cascading Style Sheets) & Javascript. 
