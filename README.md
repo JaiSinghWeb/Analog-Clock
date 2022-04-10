@@ -9,4 +9,4 @@ There are 12 numbers and 3 handles for showing minutes, hours, and second. As us
 
 ## Stay up to date with new projects
 Stay up to date with new projects , Follow Me to stay up with the new projects which are coming soon :
-https://github.com/JaiSinghWe
+https://github.com/JaiSinghWeb
